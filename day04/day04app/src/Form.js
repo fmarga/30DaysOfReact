@@ -1,33 +1,5 @@
 import React from "react";
 
-/*form {
-        max-width: 600px;
-        text-align: center;
-        margin: 10px auto;
-        justify-content: space-around;
-        line-height: 2.5;
-        
-      }
-
-      input {
-        margin: 15px 5px;
-        padding: 5px;
-        border: transparent;
-        border-radius: 7px;
-      }
-
-      #btn {
-        display: block;
-        text-align: center;
-        margin: auto;
-        width: 200px;
-        padding: 5px 25px;
-        background-color: rgb(248, 123, 101);
-        color: white;
-        border: 1px solid rgb(248, 123, 101);
-        border-radius: 5px;
-      } */
-
 const styleForm = {
   maxWidth: "600px",
   textAlign: "center",
