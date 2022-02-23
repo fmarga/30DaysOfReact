@@ -51,7 +51,7 @@
 
 
     What is a transpiler?
-    A transpiler is a program that translates a source code from a languageto another at the same level of abstraction
+    A transpiler is a program that translates a source code from a language to another at the same level of abstraction
 
 
     What is a JSX element?
