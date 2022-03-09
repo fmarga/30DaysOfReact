@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+.title {
+  text-align: center;
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  letter-spacing: 0.7rem;
+  margin: 50px;
+  color: rgb(13, 184, 252);
+}
+
+.exercicios {
+  max-width: 900px;
+  margin: 20px auto;
+  background-color: aliceblue;
+  padding: 10px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.exercicios h3 {
+  font-size: 1rem;
+  font-weight: 800;
+  margin: 50px 0;
+  color: rgb(13, 184, 252);
+}
+
+button {
+  background-color: rgb(13, 184, 252);
+  color: white;
+  font-size: 1rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 100;
+  text-transform: uppercase;
+  border: transparent;
+  border-radius: 5px;
+  padding: 10px;
+  cursor: pointer;
+  margin-right: 5px;
+}
+
+.modalview {
+  margin: 20px;
+  padding: 10px;
+}
+
+span {
+  font-size: 1.5rem;
+  margin: 10px;
+  color: rgb(13, 184, 252);
+}

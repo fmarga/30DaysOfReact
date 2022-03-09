@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+.container,
+.mainContainer {
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+h1 {
+  font-size: 1.5rem;
+  padding-bottom: 10px;
+  font-weight: 400;
+}
+
+p {
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+span {
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+small {
+  font-size: 0.7rem;
+  font-weight: 200;
+  display: block;
+}
+
+ul {
+  list-style: none;
+  margin-bottom: 10px;
+}
+
+li {
+  font-weight: 200;
+  font-size: 0.8rem;
+  padding: 5px;
+}
+
+h3 {
+  font-size: 1rem;
+  font-weight: 400;
+  margin-bottom: 10px;
+}
